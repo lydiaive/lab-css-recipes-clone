@@ -15,6 +15,7 @@ body {
 header {
   background-image: url("../images/soup.jpg");
   background-size: cover;
+  background-position: center;
   height: 600px;
   display: flex;
   justify-content: center;
